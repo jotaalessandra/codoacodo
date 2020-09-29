@@ -588,8 +588,8 @@
     #main .main-info a{
         align-self: left;
         width: 60%;
-        
-    
+        background-color: #4a4a4a;
+        color: white;
         display: flex;
         justify-content: center;
         align-items: left;
